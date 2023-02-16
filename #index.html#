@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Haben Michael </title>
+    <style>
+      div {
+      width: 700px;
+      word-wrap: break-word;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p><b>Haben Michael</b></br>
+      Lederle Graduate Research Tower 1336</br>
+      University of Massachusetts</br>
+      Amherst, MA 01003-9305</br>
+      (413) 577-9781</br>
+      hmichael at math dot umass</br>
+      <a href='CV_22_12.pdf'>CV</a>
+      <div>
+	Welcome! My office hours for Spring 2023 are  by appointment.
+      </div>
+    </p>
+    
+    <p><b>Recent Research</b>
+      <div>
+        <ol>
+          <li>
+          H. Michael. <a href='research/michael_23a.pdf'>Nonparametric
+          Estimation of the AUC of an Index with Estimated
+          Parameters.</a> Forthcoming.</li></br>
+          <li> H. Michael and L.
+          Tian. <a href='research/michael_22c.pdf'>The population and
+          personalized AUCs.</a> Under review, 2022. <a href=research/slides_personalized.pdf>Slides.pro<a></li></br>
+          <li> H. Michael. <a href='research/michael_22b.pdf'>The
+          effect of screening for publication bias on the outcomes of
+          meta-analyses.</a> Under review, 2022.</li></br>
+          <li> H. Michael, Yifan Cui, Eric Tchetgen Tchetgen and Scott
+          Lorch. <a href='https://arxiv.org/abs/2004.11769'>Identification
+          and Estimation of Marginal Structural Models for
+          Time-varying Endogenous Treatments: A Time-Varying
+          Instrumental Variable Approach</a>. Accepted at JASA
+          T&M,
+          2023. <a href=research/michael2019msmm_slides.pdf>Slides<a>.</li></br>
+          <li> H. Michael and Musie Ghebremichael. <a href='research/michael_22a.pdf'>A correction to Begg's test for publication bias.</a>. Under review, 2022.</li></br>  
+          <li> Yifan Cui, H. Michael, and Eric Tchetgen Tchetgen. <a href='research/cui_instrumental_2021.pdf'>Instrumental variable estimation of marginal structural Cox model for time-varying treatments</a>. Biometrika, 2021.</li></br>  
+          <li> Musie Ghebremichael and H. Michael. Comparison of the
+	      binormal and Lehman receiver operating characteristic
+	      curves.</a>. Communications in Statistics--Simulation and Computation, 2021.</li></br>
+	  <li>Joseph Makhema et al. Impact of a universal HIV test and
+	    treat strategy on population HIV incidence in a
+	    community-randomized trial. New England Journal of
+	    Medicine, 381(3):230–242, 2019.</li></br>
+          <li> H. Michael, Suzanne Thornton, Minge Xie, and L. Tian. <a href='research/Exact_Inference_Meta.pdf'>Exact inference on random-effects models for meta-analyses with few studies.</a> Biometrics, 2018. <a href=research/michael2017eta_slides.pdf>Slides<a>. </li></br>
+          <li> Eric Tchetgen Tchetgen, H. Michael, and Yifan Cui. <a href=https://arxiv.org/abs/1809.05422>Marginal Structural Models for Time-varying Endogenous Treatments: A Time-Varying Instrumental Variable Approach</a>.  Technical report, Department of Statistics, The Wharton School, September 2018. arXiv:1809.05422.</li></br>
+          <li> H. Michael, L. Tian, and M. Ghebremichael. <a href=https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxy010/4955753>The ROC curve for regularly measured longitudinal biomarkers.</a> Biostatistics, page kxy010, 2018. <a href=research/michael2017roc_slides.pdf>Slides<a>.  </li></br>
+          <li> H. Michael and L. Tian. <a href=https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12631>Discussion of "A Risk-Based Measure of Time-Varying Prognostic Discrimination for Survival Models."</a> Biometrics, 73(3), 2017.</li>          
+        </ol>
+      </div>
+    </p>
+
+<!--     <p><b>Talks</b> -->
+<!--       <div> -->
+<!--         <ol> -->
+<!-- 	  <li>Inference on the AUC with clustered data. Applied Math Seminar, University of Massachusetts, October 2021. <a href='research/michael_21_slides.pdf'>Slides</a>.</li></br> -->
+<!-- 	  <li>Instrumental Variable Estimation of a Cox Marginal Structural Model with Endogenous Time-Varying Exposure. Recent advances in causal inference for survival analysis, ENAR, Philadelphia, PA, 2019.</li></br> -->
+<!-- 	  <li>    Estimating Marginal Strucural Mean Models with Instrumental Variables (<a href=presentations/Gainesville_poster_2019.pdf>poster</a> session). Recent Advances in Causal Inference and Mediation Analysis and their Applications, Statistics Annual Winter Workshop, Gainesville, FL, 2019.</li><br> -->
+<!--           <li>(With I. Olkin.) Weighted K-Means Clustering with -->
+<!--               Dynamic Programming Solution. Talk given at the Meta-Research Innovation Center at Stanford Forum, April 2016, Stanford University. <a href='research/metrics2016_slides.pdf'>Slides</a> and <a href='research/metrics2016_notes.pdf'>notes</a>.</li> -->
+<!--         </ol> -->
+<!--       </div> -->
+<!--     </p> -->
+      
+    
+<!--     <p><b>Teaching</b> -->
+<!--       <div> -->
+<!-- 	<ul style="list-style-type:none"> -->
+<!-- 	  <li>From 2014-2017 I taught Statistics 195, R Programming, at Stanford. Here is the <a href='https://haben-michael.github.io/stats195/'>2017</a> class webpage.</li> -->
+<!-- 	  <li><a href=https://www.youtube.com/watch?v=OqLfMd8Hcvk>Video</a> and <a href=https://haben-michael.github.io/stats195/workshop.R>script</a> for a 2-hour Intro to R contracted by Stanford Medical School.</li> -->
+<!-- 	  <li><a href=lectures/>Notes</a> from substitute class lectures.</li> -->
+<!-- </ul> -->
+<!--     </div> -->
+<!-- </p> -->
+
+<!--     <p><a href=presentations/>Reading group slides</a> </p> -->
+
+    <p><a href='https://github.com/haben-michael'>Some programming repositories</a></p>
+
+    <p>
+    </p>
+  </body>
+</html>
