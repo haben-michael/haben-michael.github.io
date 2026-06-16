@@ -1,0 +1,243 @@
+TY  - UNPB
+AU  - Michael, Haben
+TI  - Improved efficiency for likelihood-based random effects meta-analysis
+PY  - 2026
+N1  - In preparation
+UR  - https://github.com/haben-michael/ma-bartlett/blob/main/manuscript.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Michael, Haben
+TI  - Some first-order theory for the random effects meta-analysis
+PY  - 2026
+N1  - In preparation
+UR  - https://github.com/haben-michael/ma-equivalence/blob/main/manuscript.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Michael, Haben
+TI  - The false positive rates of the Egger and skew tests for pubication bias
+PY  - 2025
+N1  - Under review
+UR  - https://github.com/haben-michael/pubbias-skew/blob/main/manuscript.pdf
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+TI  - The power functions of Begg's and Egger's tests for publication bias
+JO  - Statistica Neerlandica
+VL  - 79
+IS  - 1
+SP  - e12364
+PY  - 2025
+UR  - https://haben-michael.github.io/preprints/pubbias_power.pdf
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Tian, Lu
+TI  - The Population and Personalized AUCs for Clustered Data
+JO  - Statistica Sinica
+N1  - In press
+PY  - 2024
+UR  - https://www3.stat.sinica.edu.tw/preprint/SS-2024-0100_Preprint.pdf
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+TI  - The effect of screening for publication bias on the outcomes of meta-analyses
+JO  - Scandinavian Journal of Statistics
+VL  - 52
+IS  - 1
+SP  - 513
+EP  - 531
+PY  - 2025
+UR  - https://haben-michael.github.io/preprints/screening.pdf
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+TI  - Inference on the difference of AUCs based on fitted values under the null
+JO  - Communications in Statistics-Theory and Methods
+SP  - 1
+EP  - 20
+PY  - 2025
+UR  - https://haben-michael.github.io/preprints/delong_null.pdf
+ER  - 
+
+TY  - RPRT
+AU  - Michael, Haben
+TI  - Results relating to a conjecture on the validity of a certain hypothesis test
+PB  - University of Massachusetts
+PY  - 2025
+UR  - https://haben-michael.github.io/preprints/gaffke.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Doyle-Connolley, Alexis
+AU  - Michael, Haben
+TI  - Nonparametric estimation of the AUC of an index with estimated parameters
+PY  - 2024
+N1  - Under review
+UR  - https://haben-michael.github.io/preprints/delong_alt.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Michael, Haben
+AU  - Chen, Angelina
+AU  - Tian, Lu
+TI  - Exact Inference on a Linear Combination of Multinomial Probabilities
+PY  - 2024
+N1  - Submitted
+UR  - https://haben-michael.github.io/preprints/multinom.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Michael, Haben
+AU  - Cui, Yifan
+AU  - Tchetgen Tchetgen, Eric J.
+TI  - Efficient and Robust Estimation of Marginal Structural Models for Time-varying Endogenous Treatments
+PY  - 2024
+N1  - In progress
+UR  - https://haben-michael.github.io/preprints/mr.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Michael, Haben
+TI  - Using clustered data to test for a difference in AUCs of summary biomarkers
+PY  - 2024
+N1  - Under review
+UR  - https://haben-michael.github.io/preprints/delong-cluster.pdf
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Cui, Yifan
+AU  - Lorch, Scott
+AU  - Tchetgen Tchetgen, Eric
+TI  - Instrumental Variable Estimation of Marginal Structural Mean Models for Time-Varying Treatment
+JO  - Journal of the American Statistical Association
+VL  - 0
+IS  - 0
+SP  - 1
+EP  - 12
+PY  - 2023
+UR  - https://doi.org/10.1080/01621459.2023.2183131
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Ghebremichael, Musie
+TI  - A correction to Begg’s test for publication bias
+JO  - Communications in Statistics - Theory and Methods
+VL  - 53
+IS  - 21
+SP  - 7678
+EP  - 7698
+PY  - 2023
+UR  - https://doi.org/10.1080/03610926.2023.2271590
+ER  - 
+
+TY  - JOUR
+AU  - Cui, Yifan
+AU  - Michael, Haben
+AU  - Tanser, Frank
+AU  - Tchetgen Tchetgen, Eric
+TI  - Instrumental variable estimation of the marginal structural Cox model for time-varying treatments
+JO  - Biometrika
+VL  - 110
+IS  - 1
+SP  - 101
+EP  - 118
+PY  - 2023
+UR  - https://doi.org/10.1080/01621459.2023.2183131
+ER  - 
+
+TY  - JOUR
+AU  - Ghebremichael, Musie
+AU  - Michael, Haben
+TI  - Comparison of the binormal and Lehman receiver operating characteristic curves
+JO  - Communications in Statistics - Simulation and Computation
+VL  - 53
+IS  - 2
+SP  - 772
+EP  - 785
+PY  - 2021
+UR  - https://doi.org/10.1080/03610918.2022.2032159
+ER  - 
+
+TY  - JOUR
+AU  - Makhema, Joseph
+TI  - Universal testing, expanded treatment, and incidence of HIV infection in Botswana
+JO  - New England Journal of Medicine
+VL  - 381
+IS  - 3
+SP  - 230
+EP  - 242
+PY  - 2019
+UR  - https://www.nejm.org/doi/full/10.1056/NEJMoa1812281
+ER  - 
+
+TY  - RPRT
+AU  - Tchetgen Tchetgen, Eric J.
+AU  - Michael, Haben
+AU  - Cui, Yifan
+TI  - Marginal Structural Models for Time-varying Endogenous Treatments: A Time-Varying Instrumental Variable Approach
+PB  - Department of Statistics, The Wharton School
+PY  - 2018
+UR  - https://arxiv.org/abs/1809.05422
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Thornton, Suzanne
+AU  - Xie, Minge
+AU  - Tian, Lu
+TI  - Exact inference on the random-effects model for meta-analyses with few studies
+JO  - Biometrics
+VL  - 75
+IS  - 2
+SP  - 485
+EP  - 493
+PY  - 2019
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12998
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Tian, Lu
+AU  - Ghebremichael, Musie
+TI  - The ROC curve for regularly measured longitudinal biomarkers
+JO  - Biostatistics
+VL  - 20
+IS  - 3
+SP  - 433
+EP  - 451
+PY  - 2019
+UR  - https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxy010/4955753
+ER  - 
+
+TY  - JOUR
+AU  - Michael, Haben
+AU  - Tian, Lu
+TI  - Discussion of "A risk-based measure of time-varying prognostic discrimination for survival models," by C. Jason Liang and Patrick J. Heagerty"
+JO  - Biometrics
+VL  - 73
+IS  - 3
+PY  - 2017
+UR  - https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12631
+ER  - 
+
+TY  - JOUR
+AU  - Karan, Abraar
+AU  - Somasundaram, Prashanth
+AU  - Michael, Haben
+AU  - Shayegani, Aryan
+AU  - Mayer, Hylton
+TI  - The effect of multimedia interventions on the informed consent process for cataract surgery in rural South India
+JO  - Indian Journal of Ophthalmology
+VL  - 62
+IS  - 2
+SP  - 171
+PY  - 2014
+ER  -
